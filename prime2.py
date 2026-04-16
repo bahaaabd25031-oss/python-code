@@ -28,3 +28,4 @@ def prime_range():
     [print(indx) for indx in range(2,n) if all_prime[indx] == True]
 prime_range()
 #O(nloglogn)
+
