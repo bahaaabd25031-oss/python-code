@@ -1,6 +1,7 @@
 import random as r 
 #import needed libraries
 
+
 def create_password():  # define the function
     password = []
     for ctr in range(7): # the number  of characters in the password
